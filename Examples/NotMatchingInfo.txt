@@ -1,0 +1,38 @@
+Name:
+Not Matching Info
+
+Game slots:
+MO, 8:00, 2, 1
+MO, 9:00,2,1
+
+Practice slots:
+MO, 8:00, 1, 1
+TU, 10:00,1,1
+MO, 10:00,1,1
+FR, 10:00, 1, 1
+
+Games:
+CMSA U13T3 DIV 01
+CUSA O18 DIV 01
+CMSA U17T1 DIV 01
+
+Practices:
+CMSA U13T3 DIV 01 PRC 01
+CMSA U13T3 DIV 02 OPN 02
+CUSA O18 DIV 01 PRC 01
+CMSA U17T1 PRC 01
+
+Not compatible:
+CMSA U12T1 DIV 01, CMSA U11T1 DIV 01
+
+Unwanted:
+CMSA U13T3 DIV 02, MO, 8:00
+
+Preferences:
+MO, 8:00, CSSC O19T1 DIV 01, 100
+
+Pair:
+CMSA U12T1 DIV 01, CMSA U13T1 DIV 01
+
+Partial Assignments:
+CSSC O18 DIV 01, MO, 8:00

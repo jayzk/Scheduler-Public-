@@ -1,0 +1,35 @@
+Name:
+Soft Constraint Test Case
+
+Game slots:
+MO, 8:00, 1, 0
+MO, 9:00, 1, 0
+TU, 9:30, 2, 0
+TU, 18:00,1,0
+
+Practice slots:
+TU, 10:00,2,2
+TU, 18:00,4,0
+
+Games:
+CMSA U15 DIV 01
+CMSA U16 DIV 02
+CUSA U13T1 DIV 01
+CMSA U12T1 DIV 01
+
+Practices:
+CMSA U13T1 DIV 01 PRC 01
+CMSA U17T1 PRC 01
+
+Not compatible:
+
+Unwanted:
+
+Preferences:
+TU, 10:00, CMSA U13T1 DIV 01 PRC 01, 10
+MO, 9:00, CMSA U12T1 DIV 01, 10
+
+Pair:
+CUSA U13T1 DIV 01, CMSA U16 DIV 02
+
+Partial assignments:

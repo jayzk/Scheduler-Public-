@@ -1,0 +1,32 @@
+Name:
+Sections
+
+Game slots:
+MO, 8:00, 2, 1
+MO, 9:00, 5, 0
+MO, 10:00, 5, 0
+
+Practice slots:
+MO, 11:00, 2, 1
+MO, 12:00, 6, 3
+
+Games:
+CMSA U14T2 DIV 01
+CMSA U14T2 DIV 02
+CMSA U14T2 DIV 03
+
+Practice:
+CMSA U14T2 DIV 02 PRC 01
+CMSA U14T2 DIV 01 PRC 01
+CMSA U14T2 DIV 03 PRC 01
+CMSA U14T2 DIV 01 PRC 01
+
+Not Compatible:
+
+Unwanted:
+
+Preferences:
+
+Pair:
+
+Partial Assignments:
